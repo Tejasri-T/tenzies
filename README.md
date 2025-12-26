@@ -45,16 +45,16 @@ This version includes an **extra feature**: it tracks and displays the **number 
    npm install
    ```
 
-4. Start the development server:
+4. Start the vite development server:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 5. Open your browser and go to:
 
    ```
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 ---
