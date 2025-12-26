@@ -1,0 +1,5 @@
+Make it multi-player game
+Features:
+    1) Number of players
+    2) Winning based on number of rolls
+    3) Deploy it
